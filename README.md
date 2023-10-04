@@ -8,6 +8,6 @@ badminton carpool tracking
 
 ## statistics
 family  going back drive
-dylan   3     3    2
-sophie  2     2    1
-lucas   4     4    1
+dylan   4     4    2
+lucas   5     5    2
+sophie  3     3    1
