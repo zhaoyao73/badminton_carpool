@@ -43,10 +43,12 @@ fn parse_cols(cols: &Vec<&str>, collected_data: &mut HashMap<String, Stat>) -> R
     }
     for name in driver.split(',') {
         match name.split('\'').next() {
-            Some(child_name) => collected_data
-                .entry(child_name.to_string())
-                .or_insert(Stat::default())
-                .drives += 1,
+            Some(child_name) => {
+                collected_data
+                    .entry(child_name.to_string())
+                    .or_insert(Stat::default())
+                    .drives += 1
+            }
             None => eprintln!("unable to analyze {} driver info.", driver),
         };
     }
@@ -54,7 +56,7 @@ fn parse_cols(cols: &Vec<&str>, collected_data: &mut HashMap<String, Stat>) -> R
     let back_width = go_width;
     println!(
         "date:{} going:{:go_width$} back:{:back_width$} driver:{}",
-        date, going, come_back, driver, 
+        date, going, come_back, driver,
     );
     Ok(())
 }
@@ -99,7 +101,10 @@ fn analyze(stats: &HashMap<String, Stat>) {
     }
 
     for (name, s) in stats.iter() {
-        println!("{:<6}  {:<5} {:<4} {}", name, s.going, s.come_back, s.drives);
+        println!(
+            "{:<6}  {:<5} {:<4} {}",
+            name, s.going, s.come_back, s.drives
+        );
     }
 }
 

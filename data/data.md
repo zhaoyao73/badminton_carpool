@@ -8,3 +8,7 @@
 |2023.10.5| sophie,lucas | sophie,lucas | sophie's dad| 
 |2023.10.10| dylan,sophie,lucas | dylan,sophie,lucas| dylan's mom|
 |2023.10.12| dylan,sophie,lucas | dylan,sophie,lucas| lucas's dad|
+|2023.10.17| dylan,sophie,lucas | dylan,sophie,lucas| sophie's dad|
+|2023.10.19| dylan,sophie,lucas | dylan,sophie,lucas| dylan's mom|
+|2023.10.24| dylan,lucas  | dylan,lucas  | lucas's dad|
+|2023.10.26| dylan,lucas  | dylan,lucas  | dylan's mom|
