@@ -16,3 +16,5 @@
 |2023.11.2 | lucas  | lucas  | lucas's mom|
 |2023.11.7 | dylan,sophie,lucas | dylan,sophie,lucas | sophie's dad | 
 |2023.11.9 | sophie,lucas | sophie,lucas | lucas's dad | 
+|2023.11.14| dylan,lucas,sophie | dylan,lucas,sophie | lucas's mom |
+|2023.11.16| dylan,lucas,sophie | dylan,lucas,sophie | sophie's dad |
