@@ -20,3 +20,7 @@
 |2023.11.16| dylan,lucas,sophie | dylan,lucas,sophie| sophie's dad |
 |2023.11.21| matteo,sophie,lucas|matteo,sophie,lucas| matteo's family|
 |2023.11.23| dylan,sophie,lucas | dylan,sophie,lucas,matteo| dylan's mom|
+|2023.11.28| dylan,sophie,lucas | dylan,sophie,lucas| dylan's mom|
+|2023.11.30| sophie,lucas       | sophie,lucas      | lucas's mom|
+|2023.12.07| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom |
+|2023.12.12| dylan,lucas,sophie | dylan,lucas,sophie| sophie's dad |
