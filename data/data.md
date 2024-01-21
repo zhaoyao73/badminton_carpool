@@ -24,3 +24,10 @@
 |2023.11.30| sophie,lucas       | sophie,lucas      | lucas's mom|
 |2023.12.07| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom |
 |2023.12.12| dylan,lucas,sophie | dylan,lucas,sophie| sophie's dad |
+|2023.12.14| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
+|2023.12.19| sophie,lucas       | sophie,lucas      | lucas's dad|
+|2023.12.21| dylan,lucas,sophie | dylan,lucas,sophie| sophie's dad |
+|2024.01.9 | sophie,lucas       | sophie,lucas      | lucas's mom|
+|2024.01.11| sophie,lucas       | sophie,lucas      | sophie's dad|
+|2024.01.16| dylan,lucas,sophie | dylan,lucas,sophie| lucas's dad|
+|2024.01.18| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
