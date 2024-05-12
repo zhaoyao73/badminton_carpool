@@ -31,3 +31,29 @@
 |2024.01.11| sophie,lucas       | sophie,lucas      | sophie's dad|
 |2024.01.16| dylan,lucas,sophie | dylan,lucas,sophie| lucas's dad|
 |2024.01.18| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
+|2024.02.06| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
+|2024.02.08| dylan,lucas,sophie | dylan,lucas,sophie| lucas's mom|
+|2024.02.13| dylan,lucas,sophie | dylan,lucas,sophie| sophie's dad|
+|2024.02.15| lucas,sophie       | lucas,sophie      | lucas's dad|
+|2024.02.20| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
+|2024.02.22| dylan,lucas,sophie | dylan,lucas,sophie| sophie's dad|
+|2024.02.27| dylan,lucas,sophie | dylan,lucas,sophie| lucas's dad|
+|2024.02.29| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
+|2024.03.05| dylan,lucas,sophie | dylan,lucas,sophie| sophie's dad|
+|2024.03.07| dylan,lucas,sophie | dylan,lucas,sophie| lucas's mom|
+|2024.03.19| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
+|2024.03.21| dylan,lucas,sophie | dylan,lucas,sophie| sophie's dad|
+|2024.03.26| dylan,lucas,sophie | dylan,lucas,sophie| lucas's dad|
+|2024.03.28| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
+|2024.04.02| dylan,lucas,sophie | dylan,lucas,sophie| sophie's dad|
+|2024.04.04| lucas              | lucas             | lucas's mom|
+|2024.04.09| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
+|2024.04.11| lucas,sophie       | lucas,sophie      | sophie's dad|
+|2024.04.16| dylan,lucas,sophie | dylan,lucas,sophie| lucas's dad|
+|2024.04.18| dylan,lucas,sophie | dylan,lucas,sophie| dylan's dad|
+|2024.04.23| dylan,lucas,sophie | dylan,lucas,sophie| sophie's dad|
+|2024.04.25| dylan,lucas,sophie | dylan,lucas,sophie| lucas's dad|
+|2024.04.30| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
+|2024.05.02| dylan,sophie       | dylan,sophie      | sophie's dad|
+|2024.05.07| dylan,lucas        | dylan,lucas       | lucas's dad|
+|2024.05.09| dylan,lucas,sophie | dylan,lucas,sophie| dylan's mom|
